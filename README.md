@@ -6,12 +6,12 @@
 ### About Me
 - 🔬 **Thesis**: Lightweight Convolutional Neural Networks Based Automated Waste Classification: A Low-Power, Scalable Approach for Edge-Devices.
 - 🌍 Based in Bangladesh and passionate about data, AI, and football.
-- 📖 Always learning new skills – currently focused on **TABLEAU**!
+- 📖 Currently focused on **Tableau**!
 
 ### 🎯 Current Goals
 - Publish my undergrad research.
-- Complete some data analysis project.
-- Hone my skills in TABLEAU.
+- Complete new data analysis projects.
+- Hone my skills in **Tableau**.
 
 ### Did You Know?
 - 🎓 Computer Science & Engineering undergrad at BRAC University.
@@ -35,10 +35,19 @@
 <p align="left"> 
   <img src="https://img.shields.io/badge/-Python-black?logo=python" height="25"/>
   <img src="https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow" height="25"/>
-  <img src="https://img.shields.io/badge/-PowerBI-blue?logo=powerbi" height="25"/>
+  <img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch" height="25"/>
+  <img src="https://img.shields.io/badge/-Tableau-blue?logo=tableau" height="25"/>
+  <img src="https://img.shields.io/badge/-PowerBI-yellow?logo=powerbi" height="25"/>
 </p>
 
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nahian-kazi&show_icons=true&theme=radical" alt="Nahian's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahian-kazi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### Support
+<p>
+<a href="https://www.buymeacoffee.com/NahianKnm"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NahianKnm" /></a>
+<a href="https://ko-fi.com/Nahian-KNM"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Nahian-KNM" /></a>
 </p>
