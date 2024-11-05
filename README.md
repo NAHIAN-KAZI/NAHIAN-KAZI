@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kazi Nahian Mahmood</h1>
-<h3 align="center">A Passionate Data Analyst from Bangladesh</h3>
+<h3 align="center">Passionate About Data Science | Based in Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nahian-kazi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
