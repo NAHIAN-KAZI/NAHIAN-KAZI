@@ -4,19 +4,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nahian-kazi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 ### About Me
-- 🔬 **Thesis**: Lightweight CNN for Efficient Waste Classification.
+- 🔬 **Thesis**: Lightweight Convolutional Neural Networks Based Automated Waste Classification: A Low-Power, Scalable Approach for Edge-Devices.
 - 🌍 Based in Bangladesh and passionate about data, AI, and football.
-- 📖 Always learning new skills – currently focused on **Power BI**!
+- 📖 Always learning new skills – currently focused on **TABLEAU**!
 
 ### 🎯 Current Goals
-- Publish my CNN model research.
-- Complete my Netflix data analysis project.
-- Hone my skills in Power BI.
+- Publish my undergrad research.
+- Complete some data analysis project.
+- Hone my skills in TABLEAU.
 
 ### Did You Know?
 - 🎓 Computer Science & Engineering undergrad at BRAC University.
 - ⚽ Die-hard Manchester United fan!
-- 📊 Passionate about creating insightful data visualizations.
+- 📊 Passionate about creating insightful data visualizations and analysis.
 
 ### Connect with Me
 <p align="left">
