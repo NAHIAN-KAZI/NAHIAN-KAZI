@@ -25,11 +25,6 @@
 <a href="https://kaggle.com/kazinahianmahmood" target="blank"><img src="https://img.shields.io/badge/-Kaggle-blue?logo=kaggle&logoColor=white" height="30" /></a>
 </p>
 
-### Featured Projects
-- [Premier-League-Win-Predictor](https://github.com/your-repo-link)  
-  📈 *First project with a focus on predicting EPL match winners.*
-- [Waste Classification on Microcontrollers](https://github.com/your-repo-link)  
-  ♻️ *Efficient waste classification using CNN, tailored for microcontrollers.*
 
 ### Languages and Tools
 <p align="left"> 
