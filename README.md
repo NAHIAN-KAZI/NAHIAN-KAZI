@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Current Role**: Software Engineer I at [Polygon Technology](https://polygon.technology/)
+- 💼 **Current Role**: Software Engineer I at [Polygon Technology](https://polygontechnology.io/)
 - 🧠 **Core Focus**: Machine Learning, Deep Learning, and AI-powered real-world applications
 - 🔬 **Thesis**: *Lightweight Convolutional Neural Networks Based Automated Waste Classification: A Low-Power, Scalable Approach for Edge Devices*
 - 🌍 **Based in**: Bangladesh
