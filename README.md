@@ -1,17 +1,29 @@
 <h1 align="center">Hi 👋, I'm Kazi Nahian Mahmood</h1>
-<h3 align="center">Passionate About Data Science | Based in Bangladesh</h3>
+<h3 align="center">Passionate About Data Science | Software Engineer I @ Polygon Technology | Based in Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nahian-kazi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nahian-kazi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-### About Me
-- 🔬 **Thesis**: Lightweight Convolutional Neural Networks Based Automated Waste Classification: A Low-Power, Scalable Approach for Edge-Devices.
-- 🌍 Based in Bangladesh and passionate about data, AI, and football.
-- 📖 Currently focused on **Tableau**!
+---
+
+### 👨‍💻 About Me
+
+- 💼 **Current Role**: Software Engineer I at [Polygon Technology](https://polygon.technology/)
+- 🧠 **Core Focus**: Machine Learning, Deep Learning, and AI-powered real-world applications
+- 🔬 **Thesis**: *Lightweight Convolutional Neural Networks Based Automated Waste Classification: A Low-Power, Scalable Approach for Edge Devices*
+- 🌍 **Based in**: Bangladesh
+- ⚽ **Hobbies**: Football, data visualization, and open-source projects
+- 📖 **Currently Exploring**: Applied ML solutions, optimization for low-resource environments, and scalable AI pipelines
+
+---
 
 ### 🎯 Current Goals
-- Publish my undergrad research.
-- Complete new data analysis projects.
-- Hone my skills in **Tableau**.
+- Drive real-world impact by building scalable ML/AI systems at Polygon Technology.
+- Deepen expertise in MLOps and model deployment on edge and cloud environments.
+- Explore advanced deep learning techniques (e.g., attention mechanisms, transformers).
+- Stay up-to-date with the latest in applied AI research and tooling.
+
 
 ### Did You Know?
 - 🎓 Computer Science & Engineering undergrad at BRAC University.
