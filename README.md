@@ -13,7 +13,7 @@
 - 🔬 **Thesis**: *Lightweight Convolutional Neural Networks Based Automated Waste Classification: A Low-Power, Scalable Approach for Edge Devices*  
 - 🌍 **Based in**: Bangladesh  
 - ⚽ **Hobbies**: Football, data visualization, and open-source projects  
-- 📖 **Currently Exploring**: Applied ML solutions, optimization for low-resource environments, and scalable AI pipelines. Actively looking to explore **computer vision** and **natural language processing** further, with a growing interest in **social media mining** (though I haven’t yet worked on projects in this domain).  
+- 📖 **Currently Exploring**: Applied ML solutions, optimization for low-resource environments, and scalable AI pipelines. Actively looking to explore **computer vision** and **natural language processing** further, with a growing interest in **social media mining**, also low-resource, scalable solutions for sustainability and smart cities.  
 
 ---
 
