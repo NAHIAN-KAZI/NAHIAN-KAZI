@@ -8,13 +8,12 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 💼 **Current Role**: Software Engineer I at [Polygon Technology](https://polygontechnology.io/)
-- 🧠 **Core Focus**: Machine Learning, Deep Learning, and AI-powered real-world applications
-- 🔬 **Thesis**: *Lightweight Convolutional Neural Networks Based Automated Waste Classification: A Low-Power, Scalable Approach for Edge Devices*
-- 🌍 **Based in**: Bangladesh
-- ⚽ **Hobbies**: Football, data visualization, and open-source projects
-- 📖 **Currently Exploring**: Applied ML solutions, optimization for low-resource environments, and scalable AI pipelines
+- 💼 **Current Role**: Software Engineer I at [Polygon Technology](https://polygontechnology.io/)  
+- 🧠 **Core Focus**: Machine Learning, Deep Learning, Natural Language Processing and AI-powered real-world applications  
+- 🔬 **Thesis**: *Lightweight Convolutional Neural Networks Based Automated Waste Classification: A Low-Power, Scalable Approach for Edge Devices*  
+- 🌍 **Based in**: Bangladesh  
+- ⚽ **Hobbies**: Football, data visualization, and open-source projects  
+- 📖 **Currently Exploring**: Applied ML solutions, optimization for low-resource environments, and scalable AI pipelines. Actively looking to explore **computer vision** and **natural language processing** further, with a growing interest in **social media mining** (though I haven’t yet worked on projects in this domain).  
 
 ---
 
