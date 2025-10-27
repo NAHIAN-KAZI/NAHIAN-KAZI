@@ -44,6 +44,8 @@ BRAC University, Bangladesh
 
 **Undergraduate Thesis**: *Lightweight Convolutional Neural Networks Based Automated Waste Classification: A Low-Power, Scalable Approach for Edge Devices*
 
+📄 **Published Research**: [View Paper on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320568)
+
 ---
 
 ## 🛠️ Technical Expertise
