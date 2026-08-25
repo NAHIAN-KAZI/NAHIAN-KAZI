@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#7b61ff"/>
+      <stop offset="100%" stop-color="#ff6ec7"/>
+      <animate attributeName="x1" values="0;1;0" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="#070710"/>
+  <g transform="translate(80,150)">
+    <text x="0" y="-20" font-family="Inter, Roboto, sans-serif" font-size="36" fill="url(#g)" font-weight="700">
+      Hi, I'm NAHIAN — coder & visual tinkerer
+    </text>
+    <text x="0" y="20" font-family="Inter, Roboto, sans-serif" font-size="14" fill="#99a1c3">
+      Building interfaces, animations, and tiny tools ✨
+    </text>
+  </g>
+
+  <!-- orbiting dots -->
+  <g transform="translate(900,150)" filter="url(#glow)">
+    <circle cx="0" cy="0" r="6" fill="#00d4ff">
+      <animate attributeName="r" values="6;10;6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <g fill="#ff6ec7" opacity="0.95">
+      <circle cx="0" cy="-72" r="5">
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 0 0" to="360 0 0" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="-62" cy="32" r="4" fill="#7b61ff">
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="360 0 0" to="0 0 0" dur="8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="80" cy="28" r="3" fill="#fff77a">
+        <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 0 0" to="-360 0 0" dur="6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- animated background blobs -->
+  <g opacity="0.65">
+    <path fill="#7b61ff" d="M300 240c-80-10-120-70-90-120 40-65 150-60 210-20 90 54 140 160 50 180-40 8-110 18-170-40">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="
+          M300 240c-80-10-120-70-90-120 40-65 150-60 210-20 90 54 140 160 50 180-40 8-110 18-170-40;
+          M300 230c-60-40-150-70-120-120 30-58 180-40 240-10 70 38 160 140 80 190-55 30-140 40-200-30;
+          M300 240c-80-10-120-70-90-120 40-65 150-60 210-20 90 54 140 160 50 180-40 8-110 18-170-40
+        " />
+    </path>
+  </g>
+</svg>
