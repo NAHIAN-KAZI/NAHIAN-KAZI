@@ -4,11 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=nahian-kazi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NAHIAN-KAZI/NAHIAN-KAZI/main/profile-visual.svg" alt="NAHIAN visual" width="100%"/>
+</p>
+
 ---
 
 ## 👨‍💼 Professional Summary
 
-Machine Learning Engineer and Researcher specializing in applied artificial intelligence, with expertise in computer vision, natural language processing, and scalable AI system design. Currently developing production-grade ML solutions at Polygon Technology, with a research focus on efficient deep learning architectures and multimodal AI applications across healthcare, document intelligence, and smart city domains.
+Machine Learning Engineer and Researcher specializing in applied artificial intelligence, with expertise in computer vision, natural language processing, and scalable AI system design. Currently d[...]
 
 ---
 
@@ -22,7 +26,7 @@ Developing and deploying scalable machine learning systems and AI-powered soluti
 ## 🔬 Research Focus
 
 ### Core Areas
-- **🖼️ Computer Vision & Document Intelligence**: Advanced techniques in document parsing, layout analysis, OCR, and automated information extraction from structured and unstructured documents
+- **🖼️ Computer Vision & Document Intelligence**: Advanced techniques in document parsing, layout analysis, OCR, and automated information extraction from structured and unstructured document[...]
 - **🤖 Large Language Models**: Designing efficient, scalable LLM architectures and applications for domain-specific use cases
 - **🔗 Vision-Language Models**: Exploring multimodal AI systems that bridge visual and textual understanding for practical applications
 - **🏥 Healthcare AI**: Applying machine learning to medical imaging, diagnostic support systems, and healthcare data analytics
