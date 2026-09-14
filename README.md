@@ -77,7 +77,7 @@ Currently pursuing graduate-level research on Bangla LLM evaluation (*MicroDSPNe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-two-livid.vercel.app/?user=NAHIAN-KAZI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=NAHIAN-KAZI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
