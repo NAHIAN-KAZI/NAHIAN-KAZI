@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b61ff,100:ff6ec7&height=200&section=header&text=Kazi%20Nahian%20Mahmood&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%26%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b61ff,100:ff6ec7&height=200&section=header&text=Kazi%20Nahian%20Mahmood&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ML%20Engineer%20and%20Researcher&descAlignY=58&descSize=18" width="100%"/>
 
 ### Software Engineer I (AI/ML) @ Polygon Technology · ML Researcher · Based in Bangladesh
 
