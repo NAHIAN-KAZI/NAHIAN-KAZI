@@ -78,6 +78,10 @@ Currently pursuing graduate-level research on Bangla LLM evaluation (*MicroDSPNe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahian-kazi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nahian-kazi/nahian-kazi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
 ---
 
 <div align="center">
