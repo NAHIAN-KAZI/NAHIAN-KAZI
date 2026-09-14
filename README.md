@@ -4,7 +4,7 @@
 
 ### Software Engineer I (AI/ML) @ Polygon Technology · ML Researcher · Based in Bangladesh
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Bangla-Language+Voice+AI+%7C+LLM+Evaluation;Conversational+%26+Outbound+Voice+Agents;Linguistic+%26+Financial+Inclusion+Research" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Bangla-Language+Voice+AI+%7C+LLM+Evaluation;Conversational+%26+Outbound+Voice+Agents;Bangladeshi+Legal+Research+with+LLMs" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=NAHIAN-KAZI&label=Profile%20views&color=7b61ff&style=flat" alt="Profile Views"/>
 
