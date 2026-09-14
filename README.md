@@ -4,7 +4,9 @@
 
 ### Software Engineer I (AI/ML) @ Polygon Technology · ML Researcher · Based in Bangladesh
 
-<img src="https://komarev.com/ghpvc/?username=nahian-kazi&label=Profile%20views&color=7b61ff&style=flat" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Bangla-Language+Voice+AI+%7C+LLM+Evaluation;Conversational+%26+Outbound+Voice+Agents;Linguistic+%26+Financial+Inclusion+Research" alt="Typing SVG"/>
+
+<img src="https://komarev.com/ghpvc/?username=NAHIAN-KAZI&label=Profile%20views&color=7b61ff&style=flat" alt="Profile Views"/>
 
 <a href="https://linkedin.com/in/nahian-mahmood-bb92b1204"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>
 <a href="https://twitter.com/knmnahian"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="32"/></a>
@@ -70,16 +72,16 @@ Currently pursuing graduate-level research on Bangla LLM evaluation (*MicroDSPNe
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahian-kazi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahian-kazi&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NAHIAN-KAZI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAHIAN-KAZI&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahian-kazi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAHIAN-KAZI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nahian-kazi/nahian-kazi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/NAHIAN-KAZI/NAHIAN-KAZI/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
